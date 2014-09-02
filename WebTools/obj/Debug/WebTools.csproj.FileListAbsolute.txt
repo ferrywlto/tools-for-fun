@@ -1,0 +1,10 @@
+F:\verdantsparks.csharp.tools\WebTools\obj\Debug\WebTools.csprojResolveAssemblyReference.cache
+F:\verdantsparks.csharp.tools\WebTools\bin\Debug\com.verdantsparks.csharp.tools.web.WebTools.dll
+F:\verdantsparks.csharp.tools\WebTools\bin\Debug\com.verdantsparks.csharp.tools.web.WebTools.pdb
+F:\verdantsparks.csharp.tools\WebTools\bin\Debug\com.verdantsparks.csharp.tools.web.WebTools.dll.CodeAnalysisLog.xml
+F:\verdantsparks.csharp.tools\WebTools\bin\Debug\com.verdantsparks.csharp.tools.web.WebTools.dll.lastcodeanalysissucceeded
+F:\verdantsparks.csharp.tools\WebTools\bin\Debug\HtmlAgilityPack.dll
+F:\verdantsparks.csharp.tools\WebTools\bin\Debug\HtmlAgilityPack.pdb
+F:\verdantsparks.csharp.tools\WebTools\bin\Debug\HtmlAgilityPack.xml
+F:\verdantsparks.csharp.tools\WebTools\obj\Debug\com.verdantsparks.csharp.tools.web.WebTools.dll
+F:\verdantsparks.csharp.tools\WebTools\obj\Debug\com.verdantsparks.csharp.tools.web.WebTools.pdb

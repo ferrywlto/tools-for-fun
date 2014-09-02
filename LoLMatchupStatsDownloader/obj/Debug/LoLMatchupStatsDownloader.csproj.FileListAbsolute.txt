@@ -1,0 +1,14 @@
+F:\verdantsparks.csharp.tools\HtmlPasringApp\bin\Debug\LoLMatchupStatsDownloader.exe.config
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\obj\Debug\LoLMatchupStatsDownloader.csprojResolveAssemblyReference.cache
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\LoLMatchupStatsDownloader.exe.config
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\LoLMatchupStatsDownloader.exe
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\LoLMatchupStatsDownloader.pdb
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\com.verdantsparks.csharp.tools.game.ChampionSelectKit.dll
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\com.verdantsparks.csharp.tools.web.WebTools.dll
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\HtmlAgilityPack.dll
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\com.verdantsparks.csharp.tools.game.ChampionSelectKit.pdb
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\com.verdantsparks.csharp.tools.web.WebTools.pdb
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\HtmlAgilityPack.pdb
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\bin\Debug\HtmlAgilityPack.xml
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\obj\Debug\LoLMatchupStatsDownloader.exe
+F:\verdantsparks.csharp.tools\LoLMatchupStatsDownloader\obj\Debug\LoLMatchupStatsDownloader.pdb

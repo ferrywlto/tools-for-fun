@@ -1,0 +1,8 @@
+F:\verdantsparks.csharp.tools\ChampionSelectKit\obj\Debug\ChampionSelectKit.csprojResolveAssemblyReference.cache
+F:\verdantsparks.csharp.tools\ChampionSelectKit\bin\Debug\com.verdantsparks.csharp.tools.game.ChampionSelectKit.dll
+F:\verdantsparks.csharp.tools\ChampionSelectKit\bin\Debug\com.verdantsparks.csharp.tools.game.ChampionSelectKit.pdb
+F:\verdantsparks.csharp.tools\ChampionSelectKit\bin\Debug\HtmlAgilityPack.dll
+F:\verdantsparks.csharp.tools\ChampionSelectKit\bin\Debug\HtmlAgilityPack.pdb
+F:\verdantsparks.csharp.tools\ChampionSelectKit\bin\Debug\HtmlAgilityPack.xml
+F:\verdantsparks.csharp.tools\ChampionSelectKit\obj\Debug\com.verdantsparks.csharp.tools.game.ChampionSelectKit.dll
+F:\verdantsparks.csharp.tools\ChampionSelectKit\obj\Debug\com.verdantsparks.csharp.tools.game.ChampionSelectKit.pdb

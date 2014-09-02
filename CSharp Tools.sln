@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChampionSelectKit", "ChampionSelectKit\ChampionSelectKit.csproj", "{054021F4-7FA5-4FBD-A0DD-A3313AD83653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTools", "WebTools\WebTools.csproj", "{F8CDD2A1-DAFA-43DD-8FFB-DF622CF4D033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoLMatchupStatsDownloader", "LoLMatchupStatsDownloader\LoLMatchupStatsDownloader.csproj", "{99ACBB87-4920-423A-A2F3-27A1BB008CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054021F4-7FA5-4FBD-A0DD-A3313AD83653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054021F4-7FA5-4FBD-A0DD-A3313AD83653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054021F4-7FA5-4FBD-A0DD-A3313AD83653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054021F4-7FA5-4FBD-A0DD-A3313AD83653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8CDD2A1-DAFA-43DD-8FFB-DF622CF4D033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CDD2A1-DAFA-43DD-8FFB-DF622CF4D033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CDD2A1-DAFA-43DD-8FFB-DF622CF4D033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CDD2A1-DAFA-43DD-8FFB-DF622CF4D033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ACBB87-4920-423A-A2F3-27A1BB008CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ACBB87-4920-423A-A2F3-27A1BB008CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ACBB87-4920-423A-A2F3-27A1BB008CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ACBB87-4920-423A-A2F3-27A1BB008CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

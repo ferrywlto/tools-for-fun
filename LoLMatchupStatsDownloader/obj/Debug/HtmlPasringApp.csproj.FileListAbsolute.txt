@@ -1,0 +1,9 @@
+F:\verdantsparks.csharp.tools\HtmlPasringApp\bin\Debug\HtmlPasringApp.exe.config
+F:\verdantsparks.csharp.tools\HtmlPasringApp\bin\Debug\HtmlPasringApp.exe
+F:\verdantsparks.csharp.tools\HtmlPasringApp\bin\Debug\HtmlPasringApp.pdb
+F:\verdantsparks.csharp.tools\HtmlPasringApp\bin\Debug\HtmlAgilityPack.dll
+F:\verdantsparks.csharp.tools\HtmlPasringApp\bin\Debug\HtmlAgilityPack.pdb
+F:\verdantsparks.csharp.tools\HtmlPasringApp\bin\Debug\HtmlAgilityPack.xml
+F:\verdantsparks.csharp.tools\HtmlPasringApp\obj\Debug\HtmlPasringApp.csprojResolveAssemblyReference.cache
+F:\verdantsparks.csharp.tools\HtmlPasringApp\obj\Debug\HtmlPasringApp.exe
+F:\verdantsparks.csharp.tools\HtmlPasringApp\obj\Debug\HtmlPasringApp.pdb
